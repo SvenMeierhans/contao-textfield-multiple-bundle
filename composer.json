@@ -23,12 +23,12 @@
     "source": "https://github.com/contao-community-alliance/contao-textfield-multiple-bundle"
   },
   "require": {
-    "php": "^8.2",
+    "php": "^8.4",
     "contao-community-alliance/dc-general-contao-frontend": "^2.4",
-    "contao/core-bundle": "^5.3",
-    "symfony/config": "^6.4",
-    "symfony/dependency-injection": "^6.4",
-    "symfony/http-kernel": "^6.4"
+    "contao/core-bundle": "^5.7",
+    "symfony/config": "^7.4",
+    "symfony/dependency-injection": "^7.4",
+    "symfony/http-kernel": "^7.4"
   },
   "require-dev": {
     "contao/manager-plugin": "^2.8",
